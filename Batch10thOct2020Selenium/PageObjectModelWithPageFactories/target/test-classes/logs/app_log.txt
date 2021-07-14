@@ -1,0 +1,5 @@
+INFO    2020-11-29 21:26:01,842 [main] base.BaseTest  - Test Execution started !!!
+INFO    2020-11-29 21:26:01,842 [main] base.BaseTest  - Config Properties loaded !!!
+INFO    2020-11-29 21:26:04,986 [main] base.BaseTest  - Chrome Browser launched !!!
+INFO    2020-11-29 21:26:07,630 [main] base.BaseTest  - Navigated to : https://www.carwale.com/
+INFO    2020-11-29 21:26:09,800 [main] base.BaseTest  - Database connection established !!!

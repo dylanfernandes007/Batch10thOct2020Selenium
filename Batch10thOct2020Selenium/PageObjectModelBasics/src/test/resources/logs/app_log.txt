@@ -1,0 +1,14 @@
+INFO    2020-11-23 15:39:34,517 [main] base.BaseTest  - Test Execution started !!!
+INFO    2020-11-23 15:39:34,518 [main] base.BaseTest  - Config Properties loaded !!!
+INFO    2020-11-23 15:39:34,518 [main] base.BaseTest  - OR Properties loaded !!!
+INFO    2020-11-23 15:39:38,206 [main] base.BaseTest  - Chrome Browser launched !!!
+INFO    2020-11-23 15:39:39,085 [main] base.BaseTest  - Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2020-11-23 15:39:41,351 [main] base.BaseTest  - Database connection established !!!
+INFO    2020-11-23 15:39:41,477 [main] base.BaseTest  - Clicking on an Element : bmlBtn_CSS
+INFO    2020-11-23 15:39:41,601 [main] base.BaseTest  - Checking the Element presence for : addCustomer_CSS
+INFO    2020-11-23 15:39:41,937 [main] base.BaseTest  - Clicking on an Element : addCustomer_CSS
+INFO    2020-11-23 15:39:42,078 [main] base.BaseTest  - Typing in an Element : firstName_CSS entered the value as : Rahul
+INFO    2020-11-23 15:39:42,173 [main] base.BaseTest  - Typing in an Element : lastName_CSS entered the value as : Arora
+INFO    2020-11-23 15:39:42,241 [main] base.BaseTest  - Typing in an Element : postCode_CSS entered the value as : A123213
+INFO    2020-11-23 15:39:42,287 [main] base.BaseTest  - Clicking on an Element : addCust_CSS
+INFO    2020-11-23 15:39:42,940 [main] base.BaseTest  - Test execution completed !!!

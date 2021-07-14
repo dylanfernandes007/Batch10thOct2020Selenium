@@ -1,0 +1,8 @@
+INFO    2020-11-07 21:34:58,073 [main] TestProperties  - OR properties file loaded !!!
+INFO    2020-11-07 21:34:58,074 [main] TestProperties  - Config properties file loaded !!!
+INFO    2020-11-07 21:35:02,962 [main] TestProperties  - Chrome browser launched
+INFO    2020-11-07 21:35:05,292 [main] TestProperties  - Navigated to : http://facebook.com
+INFO    2020-11-07 21:35:07,793 [main] TestProperties  - Typing in an Element : email_XPATH entered the value as : trainer@way2automation.com
+INFO    2020-11-07 21:35:07,918 [main] TestProperties  - Typing in an Element : password_ID entered the value as : sdfsdf
+INFO    2020-11-07 21:35:08,032 [main] TestProperties  - Clicking on an Element : loginBtn_CSS
+INFO    2020-11-07 21:35:08,815 [main] TestProperties  - Test execution completed !!!
